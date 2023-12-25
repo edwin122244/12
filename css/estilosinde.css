@@ -1,0 +1,116 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+body{
+	width: 90%;
+	float: left;
+	background: purple; 
+}
+
+
+
+/
+/* estilo y fondo de color que esta atras de la imagen del hospital de la pagina formatos oficiales */
+header{
+	background:purple;
+	width:900%;
+	max-width:1500px; 
+	margin:auto;
+}
+/* fin */
+
+
+
+
+/*estilo de botones  navegacion superiores de la pagina sitios de interes  y videos  */
+
+header nav{
+background:purple;
+overflow: hidden;
+}
+/* fin */
+
+
+
+
+
+
+
+header nav ul{
+list-style: none;
+}
+
+
+
+
+
+
+
+
+header nav ul li{
+float: left;
+}
+
+
+
+
+
+
+/* estilo y color de las letras de botones de navegacion superiores de la pagina sitios de interes  y videos */
+header nav ul li a{
+padding: 10px 20px;
+display: block;
+color:white;
+text-decoration: none;
+}
+/* fin */
+
+
+
+
+
+
+/* color al selecionar el boton de navegacion  */header nav ul li a:hover{
+	background:#75ACEC; 
+}
+/* fin */
+
+
+
+
+
+
+
+/*barras divisoras de textos estilo y color  */
+.main .articles{
+width:112%;
+margin-right: 1.5%;
+float: left;
+background: purple;
+}
+/* fin */
+
+
+
+/* estilo y color de fondo donde metemos la informacion  */
+.main .articles article{
+padding:20px;
+background: white;
+margin-bottom: 20px;
+}
+/* fin */
+
+
+
+
+/* estilos barra color negro inferior  */
+footer{
+background: purple;
+color:#fff;
+clear:both;
+padding:10px 0px;
+text-align: center;
+width: auto;
+}
+/* fin */
